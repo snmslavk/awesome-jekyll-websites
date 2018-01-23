@@ -3,7 +3,7 @@ Awesome list of jekyll website and awesome resources
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)[![Build Status](https://travis-ci.org/snmslavk/awesome-jekyll.svg?branch=master)](https://travis-ci.org/snmslavk/awesome-jekyll)
 
-This awesome list is based on jekyll wiki page
+This awesome list is based on jekyll wiki page, but it is built accrding to awesome list rules. Also it contains CI build that is checking the availiability of resources. You can easly add your website here, read the contribtuion guidline.
 
 # Table of contents
 
