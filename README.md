@@ -6,9 +6,11 @@ Awesome list of jekyll website and awesome resources
 ## Table of contents
 
 * [Contribution](#Contribution)
-* [The list of jekyll websites](#The list of jekyll websites)
-* [Articles](#The list of jekyll tutorials)
-* [Videos](#The list of jekyll videos)
+* [The list of jekyll websites](#the-list-of-jekyll-websites)
+* [The list of jekyll tutorials](#the-list-of-jekyll-tutorials)
+* [The list of jekyll videos](#the-list-of-jekyll-videos)
+* [Official documentation and websites](#Official-documentation-and-websites)
+* [Tools](#Tools)
 
 # Contribution
 
@@ -26,3 +28,5 @@ Contributions are welcome!
 # The list of jekyll videos
 
 # Official documentation and websites
+
+# Tools
