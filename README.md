@@ -3,7 +3,7 @@ Awesome list of jekyll website and awesome resources
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)[![Build Status](https://travis-ci.org/snmslavk/awesome-jekyll.svg?branch=master)](https://travis-ci.org/snmslavk/awesome-jekyll)
 
-This awesome list is based on jekyll wiki page, but it is built accrding to awesome list rules. Also it contains CI build that is checking the availiability of resources. You can easly add your website here, read the contribtuion guidline.
+This awesome list is based on jekyll wiki page, but it is built accrding to awesome list styles and the broken links were removed. Also it contains CI build that is checking the availiability of resources. You can easly add your website here, read the contribtuion guidline.
 
 # Table of contents
 
@@ -797,27 +797,20 @@ Contributions are welcome!
 * [Oslo Sessions](http://oslosessions.com/)([source](https://github.com/oslosessions/oslosessions.github.io)) - Professional live music recordings for Norway's finest bands and artists.
 * [Skyost's Blog](http://blog.skyost.eu)([source](https://github.com/Skyost/skyost.github.io)) - A developer's blog.
 * [Robert Keizer](http://robert.keizer.ca/) ([source](https://github.com/robertkeizer/robert.keizer.ca)) - Personal Site.
-+ [s2t2.info](https://s2t2.info/) ([source](https://github.com/s2t2/s2t2.github.io/))
-* [Timble](http://www.timble.net) ([source](https://github.com/timble/www.timble.net)) - Agency website + blog
 * [Nooku](http://www.nooku.org) ([source](https://github.com/nooku/www.nooku.org)) - Open Source PHP Framework website + blog
 * [Open Police](http://www.openpolice.be) ([source](https://github.com/belgianpolice/www.openpolice.be)) - Website + blog about developing and iterating the Belgian Police Web Platform
 * [Bodhinyana Group](http://www.bodhinyanagroup.org.uk) ([source](https://github.com/bodhinyana-group/bodhinyana-group.github.io)) - A Buddhist meditation group meeting at Amaravati Buddhist Monastery near Hemel Hempstead, UK
 * [Varun Agrawal](http://www.varunagrawal.me/) ([source](https://github.com/varunagrawal/varunagrawal.github.io))
 * [Velocity Labs](http://velocitylabs.io/) ([source](https://github.com/velocity-labs/velocitylabs.io)) - Website and blog of a web development company specializing in Ruby on Rails and JavaScript applications.
 * [Adriano Rosa](http://adrianorosa.com) ([source](https://github.com/adrianorsouza/adrianorosa.com)) - Personal website & blog. Looks like a Wordpress but was built with jekyll.
-* [Mikey Beck](http://mikeybeck.com) ([source](https://github.com/mikeybeck/mikeybeck.github.io)) - Personal website.
 * [RTXI](http://rtxi.org) ([source](https://github.com/rtxi/rtxi.github.io)) - Website for RTXI, an open-source system for hard real-time, closed-loop control applications for electrophysiology.
 * [Społeczna Gra Zespołowa](http://spolecznagrazespolowa.pl) ([source](https://github.com/kooperatywa/spoleczna-gra-zespolowa)) - A website for a sociology/economy conference.
-* [studiorgb.uk](http://studiorgb.uk/) ([source](https://github.com/studiorgb/studiorgb.github.io)) - Personal blog of polish front-end developer
 * [history.newtheatre.org.uk](http://history.newtheatre.org.uk/) ([source](https://github.com/newtheatre/history-project/)) - Historical archive project for Nottingham's student theatre, heavy use of collections.
 * [projects.chrisvogt.me](http://projects.chrisvogt.me) ([source](https://github.com/chrisvogt/projects)) - Jekyll-powered projects directory generator with a built-in API that publishes a [JSON feed](https://projects.chrisvogt.me/api/1.0/all.json) of all projects.
 * [Friends Of Cake](http://friendsofcake.com/) ([source](https://github.com/FriendsOfCake/FriendsOfCake.github.io)) - A group of dedicated individuals working together to promote good standards in the CakePHP community and foster a team of friendly, supportive developers. Powered by Jekyll.
 * [B3Lab](http://b3lab.it/blog) ([source](https://github.com/Juleship/B3Lab-Blog)) - A blog about digital products and design. Powered by Jekyll.
 * [Abhishek Dey Das](http://abhis.ws/) ([source](https://github.com/adeydas/adeydas.github.io)) - Personal blog on technology and algorithm design. Powered by Jekyll.
-* [Camille Diez](http://diezcami.github.io/blog) ([source](http://github.com/diezcami/blog)) - Personal tech blog on Software Development, General Programming and `*nix`
 * [Edward Zhu](http://edwardzhu.me/) ([source](http://github.com/zhued/zhued.github.io)) - Edward Zhu's personal site and blog
-* [Monkey Weekend](http://monkeyweekend.com/) ([source](https://github.com/kiewic/kiewic.github.io)) - Personal blog about programming.
-* [Walutisme](http://walutisme.com) ([source](https://github.com/walutisme/walutisme.github.io)) - Just a simple personal blog
 * [Nick Clarkson](http://clarkson.io)([source](https://github.com/netotaku/netotaku.github.io)) - UK Based Technical Director, CV and Blog
 * [MasterR.org](http://masterr.org)([source](https://github.com/gmlang/masterr)) - A community where you can receive high quality training materials on data science and the R programming language for FREE.
 * [f6k](http://f6k.github.io) ([source](https://github.com/f6k/f6k.github.io)) - Personal blog in french on topics related to my studies and own interests.
@@ -830,21 +823,15 @@ Contributions are welcome!
 * [CHRISVOGT.me](http://www.chrisvogt.me) ([source](https://github.com/chrisvogt/chrisvogt.me)) - A web developer's blog built using Jekyll. Fork to use as a template for your own blog.
 * [kyber.kits.ee](http://kyber.kits.ee/en/) ([source](https://github.com/gynter/gynter.github.io))
 * [Joseph Rex](http://josephrex.me/) ([source](https://github.com/bl4ckdu5t/bl4ckdu5t.github.io)) - A blog with a custom minimalist design
-* [ExchangeMyCoins.com blog](https://www.exchangemycoins.com/blog/) ([source](https://github.com/jacobworsoe/exchangemycoins-jekyll-blog)) - A Jekyll-powered blog with a Grunt-powered workflow.
 * [BSidesVienna](http://bsidesvienna.at/) ([source](https://github.com/BSidesVienna/bsidesvienna.github.io)) - Page about the BSidesVienna Security Conference
 * [FileHelpers Project](http://www.filehelpers.net/) ([source](https://github.com/MarcosMeli/FileHelpers/tree/gh-pages)) - FileHelpers Project Home Page
 * [Matt McCormick](http://mbmccormick.com) ([source](https://github.com/mbmccormick/mbmccormick.github.io))
 * [Blog · Diki Ananta](https://blog.dikiaap.id) ([source](https://github.com/dikiaap/dikiaap.github.io)) - A blog site powered and builded by Jekyll and Mangan Theme.
-* [Sebie.net](http://sebie.net) ([source](https://github.com/sebie/sebie.net)) - A personal website / belonging to sebie; a webdev, gamer and hacker.
-* [{ Personal }](http://panossakkos.github.io) ([source](https://github.com/PanosSakkos/personal-jekyll-theme)) - A truly personal website and blog. Fork of Timeline (which is a mashup of Agency and Grayscale).
 * [Beegit's Blog](http://blog.beegit.com) ([source](https://github.com/beegit/beegit.github.io)) - A Jekyll powered blog about Markdown best practices, content strategy  and content marketing.
 * [Beegit's Help Documentation](http://help.beegit.com) ([source](https://github.com/beegit/help.beegit.com)) - A Jekyll powered help site for [Beegit's Markdown collaboration platform](https://beegit.com) where you can find tips and tutorials on using the platform.
 * [Ivangold.net](http://ivangold.net/) ([source](https://github.com/Aurif3x/aurif3x.github.io)) - A front-end developer's personal site.
 * [ulf.codes](http://ulf.codes) ([source](https://github.com/ulfschneider/ulfschneider.github.io)) Personal site for Ulf Schneider. Developer and Agile Coach.
 * [0a.io](http://0a.io) ([source](https://github.com/0a-/0a-.github.io)) Arch Here.
-* [常阳时光(SYN)](http://syn.cyhour.com/) ([source](https://github.com/nieccyyy/cyhour)) Personal blog.(Simplified Chinese, 简体中文)
-* [Sartaj Singh](http://sartajsingh.me) ([source](https://github.com/leosartaj/leosartaj.github.io)) - Open Source Developer.
-* [Martin Wedvich](http://martin.wedvi.ch) ([source](https://github.com/wedvich/martin.wedvi.ch)) - My personal journey as a full-stack web developer
 * [ITIN.UA - Lawyer Social Platform](http://itin.com.ua/)([source](https://github.com/itinua/itinua.github.io)) Maybe the most interesting social platform for lawyers in Ukraine
 * [Paul Robert Lloyd](https://paulrobertlloyd.com) ([source](https://github.com/paulrobertlloyd/paulrobertlloyd.com)) - My personal website and portfolio.
 * [Péter Maróti](http://www.marotipeter.com/) ([source](https://github.com/JarJarMP/PersonalSite)) - Personal site and portfolio.
@@ -852,8 +839,6 @@ Contributions are welcome!
 * [Mixed Media Studios](http://www.mixedmediastudios.org/) ([source](https://github.com/mixedmediastudios/mixedmediastudios.github.io)) - Official website for Mixed Media Studios
 * [Section.io](https://www.section.io/) ([source](https://github.com/section-io/docs)) - Section.io Site
 * [Heiswayi Nrird](http://heiswayi.github.io) ([source](https://github.com/heiswayi/heiswayi.github.io)) - Heiswayi Nrird Personal Blog
-* [searchpcc](http://searchp.cc/) ([source](https://github.com/searchpcc/searchpcc.github.com)) - searchpcc一个正在老去的90后程序员
-* [Leo](http://leo.github.io) ([source](https://github.com/leo/leo.github.io)) - A teenagers view on web development and intuitive UI design.
 * [idiaz.roncero](http://idiazroncero.com)([source](https://github.com/idiazroncero/idiazroncero.source)) - Personal blog on web development, politics and journalism
 * [Ayush Goel](http://ayushgoel.github.io)([Source](https://github.com/ayushgoel/ayushgoel.github.io)) - Personal blog on iOS development, ruby, python and almost everything I come across.
 * [WiseCash SaaS Knowledge Base](https://www.wisecashhq.com/help/what-is-wisecash) ([source](https://github.com/wisecash/wisecash-support), [article "Lessons Learned Building a Git-Based KB for my SaaS Product"](https://www.wisecashhq.com/blog/lessons-learned-creating-a-git-based-knowledge-base-for-my-saas-product)).
@@ -861,15 +846,11 @@ Contributions are welcome!
 * [netlicensing.io](http://netlicensing.io) ([source](https://github.com/Labs64/netlicensing.io)) - Labs64 NetLicensing - Innovative License Management Solution
 * [Shannon Babincsak](http://codeinpink.github.io/) ([source](https://github.com/codeinpink/codeinpink.github.io)) - Personal site, portfolio, and blog.
 * [Christopher Randall Wells](http://christopher-randall-wells.divshot.io/) ([source](https://github.com/ExcaliburZero/christopher-randall-wells.divshot.io)) – Personal website and blog on programming and technology.
-* [Rainpress Blog](http://blog.rainpress.me) ([source](https://github.com/SakyaStelios/rainpress-blog)) – Personal blog about book novels and tecnology.
-* [quannt](http://quannt.me) ([source](https://github.com/quannt/quannt.github.io)) – Personal blog of a web developer.
 * [Historisches Fechten Leipzig](http://historisches-fechten-leipzig.github.io/) ([source](https://github.com/historisches-fechten-leipzig/historisches-fechten-leipzig.github.io)) - small website/blog of a local [HEMA](https://en.wikipedia.org/wiki/Historical_European_martial_arts) group (German)
 * [Qing's Blog](http://1990q828j.github.io)([source](https://github.com/1990q828j/1990q828j.github.io)) - Personal pithy theme blog.
-* [Posts](http://posts.minhazulhaque.com/)([source](https://github.com/minhazul-haque/posts.minhazulhaque.com)) - Personal blog by Minhaz, built using Jekyll with Sidebar and Pagination
 * [vim cheat sheet](http://vim.rtorr.com/) ([source](https://github.com/rtorr/vim-cheat-sheet))
 * [Peter Y. Chuang - Novelist](http://novelist.xyz) ([source](https://github.com/peterychuang/peterychuang.github.io)) - The website of Peter Y. Chuang, novelist.
 * [Allan Chang](http://clchangnet.github.io/) ([Source](https://github.com/clchangnet/clchangnet.github.io)) - Learning to be a web application developer blog notes
-* [Okan Vurdu](http://okanvurdu.net/) ([Source](https://github.com/okanvurdu/okanvurdu.github.io)) - Personal blog and development notes
 * [Sloth's Lab](http://www.slothslab.com/) ([Source](https://github.com/asomarribasd/asomarribasd.github.io)) - Blog and notes about Software Architecture and Development, Programming and Integration
 * [Tyler Cubell](http://www.tylercubell.com/) ([Source](https://github.com/tylercubell/tylercubell.github.io)) - Personal blog about web development.
 * [RWD Kent State](http://www.rwdkent.com/) ([Source](https://github.com/KentStateWeb/rwd/tree/gh-pages)) - Class website for Responsive Web Design at Kent State
@@ -878,13 +859,11 @@ Contributions are welcome!
 * [Flying Birds Gallery](http://flyingbirdsgallery.github.io/) ([Source](https://github.com/flyingbirdsgallery/flyingbirdsgallery.github.io)) - The portfolio of original art work by the American artist Marcy Schwartz.
 * Jekyll and Material Design Lite ([Source](https://github.com/getmarkus/jekyll-material-design-lite)) - An experiment combining Jekyll and MDL. Implementations of the various layouts in MDL.
 * [Peter Zieske](http://peterzieske.com/) ([source](https://github.com/pdz8/pdz8.github.io)) - Personal blog on topics related to computer science and technology.
-* [Gerald Pereira](http://blog.geraldpereira.com/) ([source](https://github.com/geraldpereira/blog-template)) - Personal blog about web development and performance testing.
 * [Verne in Github](http://einverne.github.io) ([Source](https://github.com/einverne/einverne.github.io)) - Personal blog about development notes with search function and random quote. (中文)
 * [PHP Reboot magazine](http://phpreboot.github.io/) ([Source](https://github.com/phpreboot/phpreboot.github.io)) - PHP Reboot community magazine to collect good blogs/articles/tutorials in PHP community.
 * [Theo Winter](https://theowinter.ch) ([source](https://github.com/aerobless/theowinter.ch)) - Personal blog of a swiss computer science student who's also passionate about photography.
 * [Ng Wei Leen](http://weileen.me) ([source](https://github.com/plen/plen.github.io)) - Personal blog of a Malaysian entrepreneur living in Singapore.
 * [Frank's Blog](http://flinhong.github.io) ([source](https://github.com/flinhong/flinhong.github.io.git)) - Personal blog of a Chinese student studying in Hong Kong. I've updated the blog template, the older one can be found [here](http://linhong.gitcafe.io). (English | 中文)
-* [Rajath Kumar's Site](http://www.rajathkumar.com) ([source](https://github.com/rajathkumarmp/rajath)) - Personal Blog
 * [RoboComp's Official Site](http://robocomp.github.io/website/) ([source](https://github.com/robocomp/website/tree/gh-pages)) - Official Site
 * [Chris Said](http://chris-said.io) ([source](https://github.com/csaid/csaid.github.io)) - Personal blog about tech, stats, and science.
 * [Polyglot](http://untra.github.io/polyglot) ([source](https://github.com/untra/polyglot)) - Jekyll i18n and multi-language support plugin
@@ -893,16 +872,12 @@ Contributions are welcome!
 * [Theoretical Astrophysics Group](http://www.rccp.tsukuba.ac.jp/Astro) ([source](https://github.com/TheoreticalAstrophysicsGroup/TheoreticalAstrophysicsGroup.github.io)) - Webpage of the Theoretical Astrophysics Group, University of Tsukuba, Japan. Bilingual.
 * [UX Academy](http://uxacademy.in.th/) ([source](https://github.com/uxacademy/uxacademy.github.io)) - Official Site for User Experience Workshop in Thailand
 * [Richard Kraaijenhagen](http://riichard.com/) ([source](https://github.com/riichard/riichard)) - Personal blog about ergonomics, front/backend development and statistics.
-* [Farley Reynolds](http://farleykreynolds.github.io/jekyll-ekyll)([source](http://farleykreynolds.github.io/jekyll-ekyll)) - Personal blog about learning to use Jekyll.  The site will evolve as I learn.  I'll post about what I learned and how I implemented it!
 * [rapkin](http://rapkin.com.ua/) ([source](https://github.com/rapkin/rapkin.github.io/)) - Little blog about my little projects.
 * [Joe Buhlig](http://joebuhlig.com) ([source](https://github.com/joebuhlig/joebuhlig_com)) - Personal blog and podcast about productivity and life.
-* [{ Personal }](http://panossakkos.github.io/personal-jekyll-theme/) ([source](https://github.com/PanosSakkos/personal-jekyll-theme)) - Your personal blog and your point of reference website.
 * [Hassan Zaaferani](http://zaaferani.ir) ([source](https://github.com/zaaferani67/zaaferani67.github.io)) - Persian website on software - وبسایت فارسی من
 * [Sub85](http://sub85.com) ([source](https://github.com/matthewfedak/sub85blog)) - software development blog and hire page for British Software Developer Matthew Fedak
 * [Nonprofit Website Template](https://smartergiving.github.io/free-nonprofit-starter-website/) ([source](https://github.com/smartergiving/free-nonprofit-starter-website)) - Github Pages template to help grassroots nonprofits get online quickly
 * [USC's Center for Applied Network Analysis (CANA)](http://cana.usc.edu) ([source](https://github.com/USCCANA/USCCANA.github.io))
-* [GGio](http://ggio.com.br) ([source](https://github.com/ggio/ggio.github.io)) - Website about psychology and personal blog of Gregório Miranda, from Brazil.
-* [Awesome SSHConfig](http://awesome.sshconfig.io/) ([source](https://github.com/sshconfigio/awesome_sshconfig)) - A curated list of awesome SSHConfig hacks, work in progress
 * [Justin Harringa](http://harringa.com) ([source](https://github.com/justinharringa/harringa.com)) - Justin Harringa's site which could involve software development, travel, or other topics.
 * [Magazine du Webdesign](http://www.magazineduwebdesign.com/) ([source](https://github.com/MagazineduWebdesign/MagazineduWebdesign.github.io)) – Just the best of the interfaces.
 * [enilu's blog](http://enilu.github.io/) ([source](https://github.com/enilu/enilu.github.io)) –(Chinese, 中文).
@@ -912,9 +887,7 @@ Contributions are welcome!
 * [Leopolis Research & Design](http://leopolisrd.pl/) ([source](https://github.com/kooperatywa/leopolis))
 * [Fedora Developer Portal](https://developer.fedoraproject.org/) ([source](https://github.com/developer-portal/website))
 * [Matthew Graybosch (author's website/personal blog)](http://matthewgraybosch.com) ([source](https://github.com/demifiend/matthewgraybosch))
-* [Buy Some Books, Dammit](http://buysomebooksdammit.com) ([source](https://github.com/demifiend/buysomebooksdammit))
 * [30 Days of Web Dev: Liz Krane's April 2015 challenge](http://learningnerd.com/30DaysOfWebDev) ([source](https://github.com/LearningNerd/30DaysOfWebDev))
-* [StatisGen](http://lomiglavnek.github.io)([source](https://github.com/LomigLavnek/StatisGen)) Statistics about static site generators. Fully automated by scripts
 * [Ruwhan's Blog](http://ruwhan.github.io) ([source](https://github.com/ruwhan/ruwhan.github.io)) Web development technical blog, and tutorials.
 * [Loi's Studio](http://loiwu.github.io) ([source](https://github.com/loiwu/loiwu.github.io)) A personal blog, including the articles about iOS programming
 * [J Mikka Luster](http://jml.is) ([source](https://github.com/jluster/jml.is)) Personal blog, used to chronicle long distance hikes.
@@ -928,18 +901,13 @@ Contributions are welcome!
 * [Way Lau's Personal Site](http://www.waylau.com/) ([source](https://github.com/waylau/jekyll-bootstrap-blog)) - A theme for Jekyll to build a personal blog, based on Bootstrap 3, Font Awesome and jQuery.中文博客模版
 * [The Hornery](https://fusion809.github.io) ([source](https://github.com/fusion809/fusion809.github.io)) &mdash; a personal site for Brenton Horne (fusion809) covering mostly Linux-related topics. 
 * [intercooler.js](http://intercoolerjs.org/) ([source](https://github.com/LeadDyno/intercooler-js/tree/master/www)) - A declarative AJAX framework
-* [akademi.help](http://akademi.help/) ([source](https://github.com/akademihelp/site)) - Bulutfon, Lab2023 and Netinternet developers blog.
 * [manikrathee.com](http://manikrathee.com/) ([source](https://github.com/manikrathee/manikrathee.com/)) - Personal portfolio, resources and blog.
 * [einundleipzig.de](http://einundleipzig.de/) ([source](https://github.com/einundleipzig/einundleipzig)) - A blog about the urban development of Leipzig
 * [30dienu.lt](http://30dienu.lt/) ([source](https://github.com/dainiuxt/30dienu)) - Personal blog about personal challenges and personality growth. In Lithuanian.
 * [ritmas.eu](http://ritmas.eu/) ([source](https://github.com/dainiuxt/ritmas)) - Website of running community. In Lithuanian.
-* [anita.lt](http://anita.lt/) ([source](https://github.com/dainiuxt/anita)) - E-commerce site with ecwid cart solution. In Lithuanian.
 * [Erwartungskonforme Webseiten](http://www.informatik.uni-oldenburg.de/~iug15/ew/) ([source](https://gitlab.uni-oldenburg.de/erwartungskonforme-webseiten/website)) - German project website about the accessibility of websites
 * [pasoev.github.io](http://pasoev.github.io/) ([source](https://github.com/pasoev/pasoev.github.io)) - A blog on functional programming
 * [SCALABLE](http://jorgeatgu.com/blog/) ([source](https://github.com/jorgeatgu/Boira)) - A blog about SVG · CSS3 · HTML(SPANISH)
-* [Hello, World_](http://magnier.io/) ([source](https://github.com/qsypoq/qsypoq.github.io)) - Personal blog about many tech topics
-* [leftymitt](https://leftymitt.com) ([source](https://github.com/leftymitt/leftymitt.github.io)) - just some site. (uses [uikit](http://getuikit.com))
-* [Smart About College](http://www.smartaboutcollege.org) ([source](https://github.com/mhesac/www.smartaboutcollege.org)) - Helps Montanans with FAFSA completion, scholarship searches and apps, foster care resources, money management and more.
 * [Personal Development](http://jonathanpike.net) ([source](https://github.com/jonathanpike/jonathanpike.github.io)) - Personal blog about becoming a better developer.
 * [Oliver Pattison](https://olivermak.es) ([source](https://github.com/opattison/olivermakes)) – Archive of writing, photography and projects.
 * [Orange](https://talentedunicorn.github.io/orange) - A free jekyll theme for personal portfolio and blog 
@@ -955,7 +923,6 @@ Contributions are welcome!
 * [Koba Khitalishvili](http://www.kobakhit.com/) ([source](https://github.com/KobaKhit/kobakhit.github.io)) - A blog where I write about data science, math, stats, web design and grad school.
 * [Daniel Limberger](http://daniellimberger.de/en/) ([source](https://github.com/cgcostume/cgcostume.github.io)) - Portfolio optimized for researchers and those who strive for a minimal, file-based content management.
 * [Robin Stickel](http://robinstickel.com/) ([source](https://github.com/robinstickel/robinstickel.com)) - Personal Website, Blog and Portfolio
-* [Nishanth Shanmugham](https://nishanths.github.io) ([source](https://github.com/nishanths/nishanths.github.io)) - Website + writing
 * [Another Peak](http://anotherpeak.org/) ([source](https://github.com/abrahamdu/abrahamdu.github.io)) - Yi Du's Personal Site - Blog and Project
 * [Diney Wankhede](http://www.dineywankhede.com/) ([source](https://github.com/dineyw23/dineyw23.github.io)) - Diney's Personal Website 
 * [Daniel Knöll](http://danielknoell.de/)([source](https://github.com/Danny4927/danny4927.github.io)) - Personal Website and little Tech Blog
@@ -965,11 +932,9 @@ Contributions are welcome!
 * [Bitcoin Manchester](http://www.bitcoinmanchester.org.uk/) ([source](https://github.com/bitcoinmanchester/bitcoinmanchester.github.io)) - Bitcoin / cryptocurrency meetup in Manchester, UK
 * [Jason Hee](http://jasonhee.com) ([source](https://github.com/jasonheecs/jasonheecs.github.io)) - Personal website and portfolio
 * [liungkejin](https://liungkejin.github.io)([source](https://github.com/liungkejin/liungkejin.github.io)) - 一个非常简单的个人博客
-* [James Kim](http://jamjamlab.co)([source](https://github.com/jamjamlab/jamjamlab.github.io)) - Personal website and portfolio
 * [Rabid Canary](http://mttmccb.github.io)([source](http://github.com/mttmccb/mttmccb.github.io)) - Full-Stack Web Development Blog
 * [Lookuga](https://lookuga.com) ([source](https://github.com/lookuga/lookuga.github.io)) - Security & Development Blog
 * [Trendara.com](http://trendara.com/) ([source](https://github.com/rowe-morehouse/trendara-public)) — Marketing automation agency website.
-* [6ty8](https://6ty8.com) ([source](https://github.com/6ty8/6ty8.github.io)) — 6ty8 is a digital agency specialising in WordPress development.
 * [jacobroy.quebec](https://jacobroy.quebec) ([source](https://github.com/lejacobroy/lejacobroy.github.io)) - Photography portfolio and transactional store for prints.
 * [William He](http://williammer.github.io) ([source](https://github.com/Williammer/Williammer.github.io)) - TV/Web app developer William He's concise Personal Website.
 * [CircleCI Docs](https://circleci.com/docs/) ([source](https://github.com/circleci/circleci-docs)) - Documentation for CircleCI, continuous integration platform.
@@ -983,7 +948,6 @@ Contributions are welcome!
 * [Jens Willmer](http://jwillmer.de) ([source](https://github.com/jwillmer/jekyllDecent)) - Personal blog
 * [LionNet Maciej Lew](http://lion.net.pl) ([source](https://github.com/maciejlew/maciejlew.github.io)) - Personal blog about software development, especially lan management systems for internet service providers
 * [Shekhar Prasad Rajak](http://shekharrajak.github.io/) ([source](https://github.com/Shekharrajak/shekharrajak.github.io)) - Personal blog for GSoC 
-* [Little Fox](https://fluffy.es/) ([source](https://github.com/cupnoodle/blog)) - Personal blog with drawings, foxes and codes.
 * [Panxw's personal blog](https://www.panxw.com/) ([source](https://github.com/panxw/panxw.github.com)) – Blog built by Jekyll (Chinese).
 **hello word**
 * [Electric Book Workflow](http://electricbookworks.github.io/electric-book-workflow/) ([source](https://github.com/electricbookworks/electric-book-workflow)) - Professional book-production toolchain
@@ -996,34 +960,22 @@ Contributions are welcome!
 * [Ben Sanders](https://bensanders.me/) ([source](https://github.com/bensanders/bas)) Personal Blog
 * [Santuan](http://santuan.github.io/stn/) ([source](https://github.com/santuan/stn)) Personal Blog
 * [Keith Buhler](http://www.keithbuhler.com/) ([source](https://github.com/keithbuhler/keithbuhler.github.io)) Professional Website - Philosophy
-* [Mellow Views](http://mellowviews.com) ([source](https://github.com/mutsinzi/mutsinzi.github.io)) Art and Culture Website
 * [EMC](http://emengine.space) ([source](https://github.com/emengine/emengine.github.io)) Simple site using Bootstrap, Muut for comments, Bootstrap modal image popup, mathjax for math equations, google analytics for tracking and hotjar for heatmaps.
 * [Babji Chetty](https://bchetty.com) ([source](https://github.com/bchetty/bchetty.github.io)) - Simple, responsive site and blog built using Jekyll, Bootstrap, Font-Awesome, Google Fonts, etc
 * [11route.com](https://11route.com) ([source](https://github.com/ayastreb/11route)) - Travel Photo Blog. It's my bilingual blog with nice galleries and [PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe) integration.
 * [Jekyll Maps Demo](https://ayastreb.github.io/jekyll-maps/) ([source](https://github.com/ayastreb/jekyll-maps/tree/gh-pages-src)) - Demo page for [Jekyll Maps](https://github.com/ayastreb/jekyll-maps) plugin.
-* [Sharad Shriram](https://ssharad.github.io) ([source](https://github.com/ssharad/ssharad.github.io)) - Simple Jekyll based website with Bootstrap for the landing page. Ths is the portfolio website and blog of Sharad Shriram. 
 * [Reet Lago: writer of meaningful things](https://reetlago.github.io/) ([source](https://github.com/reetlago/reetlago.github.io)) Site featuring select works of Reet Lago, a once-in-a-blue-moon writer of stories, poems, lyrics or anything meaningful.
 * [git-secret](https://sobolevn.github.io/git-secret/) - A bash-tool to store your private data inside a git repository.
-* [Utkarsh Gupta : Geek-Developer-Traveler](https://utkarshgpta.com) - Personal site and blog.
 * [pixyzehn](http://pixyzehn.com/) ([source](https://github.com/pixyzehn/pixyzehn.github.io)) Personal Blog
 * [Martin Rotter](https://martinrotter.github.io/) ([source](https://github.com/martinrotter/martinrotter.github.io)) Personal website & blog
 * [Nicolas Hoizey](https://nicolas-hoizey.com/) ([source](https://github.com/nhoizey/nicolas-hoizey.com)) - Personal site and blog.
 * [Kaltura](https://vpaas.kaltura.com) ([source](https://github.com/kaltura/DeveloperPortalDocs)) - Kaltura VPaaS
 * [zazazack.github.io](https://zazazack.github.io) ([source](https://github.com/zazazack/zazazack.github.io)) - Personal site/blog
 * [eightportions.com](https://eightportions.com) ([source](https://gitlab.com/rtlee/rtlee.gitlab.io/tree/master) / [fork](https://github.com/daattali/beautiful-jekyll)) - Personal blog on risk, finance, technology and assorted other topics
-* [alfabravo.org](http://alfabravo.org) ([source](https://gitub.com/aborrero/alfabravo.org)) - Blog about adventures and nature (spanish)
-* [ChillPing.com](http://www.chillping.com) ([source](https://github.com/jemateboer/jemateboer.github.io)) - Blog about personal things and techniks (Dutch)
 * [blog.thibmaekelbergh.be](https://blog.thibmaekelbergh.be) ([source](https://github.com/thibmaek/thibmaek.github.io)) - Blog about web development, technology and more. Also landing page & contact (Dutch)
-* [lottebijlsma.be](https:/lottebijlsma.be) ([source](https://github.com/lottebijlsma/lottebijlsma.github.io)) - Portfolio page for Lotte Bijlsma
-* [habd.as](https://habd.as/) ([source](https://github.com/jhabdas/habd.as)) - Building the future Web
-* [lakshman](http://blog.lakshmanbasnet.com) ([source](https://github.com/lakshmanbasnet/lakshmanbasnet.github.io)
 ) - Personal Blog on travel, life and technology
 * [Step By Step](http://jokinkuang.github.io) ([source](https://github.com/jokinkuang/jokinkuang.github.io)
 ) - Personal Blog (一个简明响应式博客)
-* [Wilson Mar](https://wilsonmar.github.io) ([source](https://github.com/wilsonmar/wilsonmar.github.io)
-) - Blog on DevOps IoT using a Mac
-* [Carrie Willington](https://blog.cvwillington.com) ([source](https://github.com/cvwillington/blog)
-) - Personal site/blog
 * [Mathilde Rouault](http://mathilderouault.com/) ([source](https://github.com/mathilderouault/mathilderouault.github.io)
 ) - Personal site
 * [latex-project.org](https://www.latex-project.org/) ([source](https://github.com/latex3/latex3.github.io)) - The LaTeX3 Project website
@@ -1034,16 +986,12 @@ Contributions are welcome!
 * [BeezTEM](https://beeztem.github.io) ([source](https://www.github.com/beeztem/beeztem.github.io)) - Personal blog and project site
 * [Apache ORC project](https://orc.apache.org) ([source](https://github.com/apache/orc/tree/master/site)) - Apache ORC website
 * [Junade Ali](https://icyapril.com) ([source](https://github.com/IcyApril/icyapril.github.io)) - Personal blog
-* [Puza Sharma](http://www.puzasharma.com) ([source](https://github.com/lakshmanbasnet/puzasharma)
-) - Personal Site of Nepali Actress Puza Sharma
 * [Undiscovered Attractions](https://undiscoveredattractions.com) ([source](https://github.com/UndiscoveredAttractions/undiscoveredattractions.github.io)) - Travel blog using a custom edit of the halve theme
 * [FATZOMBI](http://fatzombi.github.io/) ([source](http://github.com/fatzombi/fatzombi.github.io)) - a simple themed, personal blog & distopia
 * [Fri Rasyidi](http://frirasyidi.com/) ([source](http://github.com/frirasyidi/frirasyidi.github.io))
 * [David Young](https://blog.davidyoung.tech) ([source](http://github.com/dayvidwhy/blog.davidyoung.tech))
-* [Nepal Owl Festival](https://lakshmanbasnet.github.io/nepalowlfestival) ([source](https://github.com/lakshmanbasnet/nepalowlfestival) ) - Simple Site for Nepal Owl Festival with basic info
 * [Dev Haufe](https://haufe-lexware.github.io) ([source](https://github.com/Haufe-Lexware/Haufe-Lexware.github.io) ) - Haufe Group writing about Dev things, soon also about Design and other things.
 * [Synthetase's World of Nerd](http://syntheta.se) personal blog, source [here](https://github.com/StaphSynth/StaphSynth.github.io). Site implements tagging and DISQUS integration. Also uses Jekyll-sitemap and Jekyll-SEO.
-* [OkGNow](http://okgnow.com.br/)([source here](https://github.com/OkGNow/okgnow.github.io)) - A Brazilian Google fan blog, Site implements tagging, multiuser and DISQUS integration. Also uses Jekyll-sitemap, Jekyll-SEO and Bitwiser Material Theme.
 * [jCanvas](http://projects.calebevans.me/jcanvas/) ([source](https://github.com/caleb531/jcanvas-website)) - The official website of jCanvas, the jQuery canvas library. Site implements collections for documentation, Jekyll-SEO, Jekyll-Sitemap. Theme is completely custom.
 * [Yateendra Sahu](http://yateender.com) ([source](https://yateendra.github.io)) - Personal blog
 * [Is the Holocaust Real? Unfortunately, yes.](http://www.istheholocaustreal.com) - A strike back at Holocaust deniers and hate sites.
@@ -1052,28 +1000,22 @@ Contributions are welcome!
 * [Mathifold](http://mathifold.org/) ([source](https://github.com/mathifold/mathifold)) - Mathifold is a project whose goal is to make mathematics accessible to everybody, completely free, based on open collaboration and the best pedagogical tools.
 * [Rafael Comino Matas - Ilustration](http://blog.cominoilustracion.com/) ([source](https://github.com/CominoMatas/CominoMatas.github.io)) - My personal site about illustration. Made with Jekyll Now and bootstrap 4.
 * [gaboratorium notes](http://gaboratorium.com/) ([source](https://github.com/gaboratorium/gaboratorium-notes)) - Scepticism, criticism and lots of JavaScript
-* [Dog2puppy](https://www.dog2puppy.tk/) ([source](https://github.com/Dog2puppy/dog2puppy.github.io)) - My personal website
 * [technicat](https://technicat.github.io/) ([source](https://github.com/technicat/technicat.github.io)) - Site for Technicat LLC
 * [Tampa Bay Book Group](http://www.tampabaybookgroup.org/) ([source](https://github.com/scottcwilson/ort)) - Site for a book club
 * [Art Bergmann](http://artbergmann.com/) ([source](https://github.com/va7sdf/artbergmann)) - Official website of Art Bergmann, anti-hero-iconoclast of Canadian music for over 40 years.
 * [Gordon Celesta](http://gordon.celesta.me/) ([source](https://github.com/va7sdf/va7sdf.github.io)) - Personal Blog.
 * [Dav Chana - i.dc1.in](https://i.dc1.in/) ([source](https://gitlab.com/davch/dc1-blog/tree/deploy)) - Personal Blog.
-* [Regular expressions in Delphi(pascal), multilingual site](https://regexpstudio.com/) ([source](https://github.com/masterandrey/regexpstudio.com))
 * [LineageOS Wiki](http://wiki.lineageos.org/) ([source](https://github.com/LineageOS/lineage_wiki))
 * [Blog Muhammad Zaini](http://muhammadzaini.com/blog) ([source](https://github.com/mzaini30/blog)) - Personal Blog about mindset and code (Indonesian language)
-* [Matthis Duarte](https://matthisduarte.com/) - A blog about marketing and communication.
 * [Juliano Boesel Mohr](http://www.juliaaano.com/) ([source](https://github.com/juliaaano/juliaaano.github.io)) - A blog about software engineering.
 * [Victor Caldas](http://www.victorcaldas.com/) ([source](https://github.com/vcaldas/vcaldas.github.io)) - Personal and academic website.
 * [Banter bloguje](https://blog.zvestov.cz/) ([source](https://github.com/banterCZ/blog/)) - Personal blog mostly about software engineering (in Czech) 
 * [Adi Fahmi](https://adifahmi.me/) ([source](https://github.com/AdiFahmi/AdiFahmi.github.io)) - Personal Site.
-* [Aditya Kushwaha](http://www.kushwaha.tech) ([source](https://github.com/adityaKushwaha/adityaKushwaha.github.io)) - Android Developer Blog.
 * [Duc A. Hoang](http://hoanganhduc.github.io/) ([source](https://github.com/hoanganhduc/jekyll-webpage-source)) - Personal and Academic Site.
 * [Webjeda](https://blog.webjeda.com) ([Source](https://github.com/sharu725/blog-v3)) - Jekyll Tutorials.
 * [Adit Deshpande](https://adeshpande3.github.io/) ([Source](https://github.com/adeshpande3/adeshpande3.github.io)) - Machine Learning Blog.
-* [bnhr](https://benhur07b.github.io) ([Source](https://github.com/benhur07b.github.io)) - Personal blog about FOSS, FOSS4G, Python, etc.
 * [grandprixstats.org](http://www.grandprixstats.org) ([Source](https://github.com/grand-prix-stats/grand-prix-stats.github.io)) - Formula 1® Programmatically Generated Statistics
 * [Chuck Masterson's Actual Blog](http://www.chuckmasterson.com) ([Source](https://github.com/chuckmasterson/chuckmasterson.github.io)) — Personal blog, with greatly customized CSS and threaded commenting via Staticman.
-* [krihsna](http://krihsna.github.io) ([source](https://github.com/krihsna/krihsna.github.io)) - my simple journal
 * [Aevyz's Project Hub](https://aevyz.github.io) ([source](https://github.com/Aevyz/aevyz.github.io)) - Personal blog focussing on Jekyll coding. 
 * [Diego S.C.](https://diegosc.com) ([source](https://github.com/diegosozua/diegosozua.github.io)) - My personal blog about programming, music, drawing.
 * [The Flow of Language](http://derek.com.ua) ([source](https://github.com/derekkedziora/derekkedziora.github.io)) - My personal blog and a mini CMS for lesson plans 
@@ -1082,7 +1024,6 @@ Contributions are welcome!
 * [Bookoid](https://saurabhthorat.github.io/bookoid/) ([source](https://github.com/saurabhthorat/bookoid)) - Android app website
 * [ThemeJekyll](https://themejekyll.github.io/) ([source](https://github.com/ThemeJekyll/themejekyll.github.io)) - Search and find free, open source Jekyll themes.
 * [Paul's Portfolio](https://lenpaul.github.io/) ([source](https://github.com/LeNPaul/LeNPaul.github.io)) - My personal portfolio built from the ground up, powered by Jekyll
-* [Mingjie Jiang's Blog](https://www.mingjie.info/) ([source](https://github.com/mj66/blog)) - A web developer, an immigrant, a student, a writer.
 * [Jekyll Skeleton](https://marcanuy.github.io/jekyll-skeleton/) ([source](https://github.com/marcanuy/jekyll-skeleton)) - A skeleton of a multilingual site (based in data files) to start new websites with Bootstrap 4 included.
 * [Fowlie's blog](https://fowlie.github.io) ([source](https://github.com/fowlie/fowlie.github.io)) - My personal blog about programming and music.
 * [Food Oasis LA](https://foodoasis.la/) ([source](https://github.com/foodoasisla/foodoasis.la)) - Food Oasis LA (FOLA) shows you the best places to find healthy food in Los Angeles. It's built by volunteers at Hack for LA, the official Los Angeles chapter of Code for America.
@@ -1091,17 +1032,14 @@ Contributions are welcome!
 * [Andor Polgar's photolog](http://andor.cool/) ([source](https://github.com/andormade/andor.cool)) - A personal photoblog.
 * [Official website of Lightrains Tech](https://lightrains.com "Blockchain Consulting Company") ([source](https://github.com/lightrainstech/website.source)) - Blockchain Consulting Company 
 * [Irfan Fadilah's Blog](http://blog.irfanfadilah.com/) ([source](https://github.com/irfanfadilah/irfanfadilah.github.io)) - Irfan Fadilah's personal blog about IT related things.
-* [Brett Stevenson](https://brettstevenson.me) ([source](https://github.com/jonsn0w/jonsn0w.github.io)) - a personal website and blog for a developer/designer.
 * [Alireza Aghamohammadi](http://aaghamohammadi.ir) ([source](https://github.com/aaghamohammadi/aaghamohammadi.github.io)) - Personal website about life, food and technology in Persian (Farsi).
 * [Cedro Gropello](http://cedrogropello.com/) ([source](https://github.com/tommaso-negri/cedro-gropello)) - Website of an Italian beauty center
 * [Andrey Glauzer](https://andreyglauzer.com) ([source](https://github.com/andreyglauzer/andreyglauzer.github.io)) - A personal blog
-* [Gonzalo Ziadi](https://www.windespair.com) ([source](https://github.com/GonzaloZiadi/windespair)) - A personal blog
 * [Multiplicidad Digital](http://amireynoso.github.io/multiplicidad) ([source](https://github.com/amireynoso/multiplicidad)) - Ami Reynoso's graduation project about web development (in Spanish). Uses custom responsive theme, integrates Disqus, and custom page types.
 * [MLOwl](http://www.mlowl.com) ([source](https://github.com/batzner/batzner.github.io)) Blog about ML, Data Science and other buzzwords
 * [Ajit Kumar's Webpage](https://krajit.github.io/) ([Source](https://github.com/krajit/krajit.github.io)) A simple academic webpage based on [hyde](https://github.com/poole/hyde) template.
 * [Theo Kalfas - teolandon](http://teolandon.com/) ([source](https://github.com/teolandon/teolandon.github.io/)) - Personal website/blog.
 * [Ganessh Kumar](https://ganesshkumar.com/) ([source](https://github.com/ganesshkumar/ganesshkumar.github.io/)) - A personal website
-* [AdHawk](https://www.tryadhawk.com) ([source](https://github.com/adHawk/adhawk-website)) - A marketing website for AdHawk who builds software to help businesses automate their Google AdWords and Facebook Advertising
 * [Matt Grey](https://www.himatt.com) ([source](https://github.com/MattGreyDesign/himatt.com)) - Personal portfolio and font selling platform for a UX designer
 * [Viacheslav Avsenev Software Developer and Engineer](http://vavstech.com/) ([source](https://github.com/snmslavk/snmslavk.github.io)) - Personal website with portfolio and links to related resources
 * [Hossein Karami](https://hosseinkarami.com/) ([source](https://github.com/HosseinKarami/HosseinKarami.github.io)) - Personal portfolio
