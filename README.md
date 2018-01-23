@@ -1,18 +1,9 @@
-# awesome-jekyll
+# awesome-jekyll-websites
 Awesome list of jekyll website and awesome resources
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)[![Build Status](https://travis-ci.org/snmslavk/awesome-jekyll.svg?branch=master)](https://travis-ci.org/snmslavk/awesome-jekyll)
 
 This awesome list is based on jekyll wiki page, but it is built according to awesome list styles and the broken links were removed. Also it contains CI build that is checking the availiability of resources. You can easly add your website here, read the contribtuion guidline.
-
-# Table of contents
-
-* [Contribution](#Contribution)
-* [The list of jekyll websites](#the-list-of-jekyll-websites)
-* [The list of jekyll tutorials](#the-list-of-jekyll-tutorials)
-* [The list of jekyll videos](#the-list-of-jekyll-videos)
-* [Official documentation and websites](#official-documentation-and-websites)
-* [Tools](#tools)
 
 # Contribution
 
@@ -855,14 +846,3 @@ Contributions are welcome!
 * [Louis Rassaby](http://rassaby.com/) ([source](https://github.com/lrassaby/lrassaby.github.io)) - Personal blog and portfolio with masonry layout.
 * [tekkie](https://tekkie.flashbit.net/) ([source](https://github.com/ain/tekkie.flashbit.net)) - Technology blog of Ain Tohvri, CTO at Savings United, international network of digital coupon marketplaces.
 
-# The list of jekyll tutorials
-TODO
-
-# The list of jekyll videos
-TODO
-
-# Official documentation and websites
-TODO
-
-# Tools
-TODO
