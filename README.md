@@ -3,6 +3,13 @@ Awesome list of jekyll website and awesome resources
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+## Table of contents
+
+* [Contribution](#Contribution)
+* [The list of jekyll websites](#The list of jekyll websites)
+* [Articles](#The list of jekyll tutorials)
+* [Videos](#The list of jekyll videos)
+
 # Contribution
 
 Contributions are welcome!
@@ -12,6 +19,7 @@ Contributions are welcome!
 4 Make sure that the build is not failed
 
 # The list of jekyll websites
+* [Viacheslav Avsenev personal website](https://vavstech.com/)
 
 # The list of jekyll tutorials
 
