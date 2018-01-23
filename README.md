@@ -31,7 +31,6 @@ Contributions are welcome!
 * [Personal blog](http://vrepin.org) ([source](https://github.com/vitalyrepin/vrepinblog)) - DISQUS integration, Facebook OpenGraph settings, txt2tags plugin in action, extensive tagging, google sitemap; based on [Lanyon theme](http://lanyon.getpoole.com/) from the [pool project](https://github.com/poole/poole)
 * [Development Seed](http://developmentseed.org/) ([source](http://developmentseed.org/blog/2011/09/09/jekyll-github-pages/))
 * [Zhijun Kang](http://robotkang.cc/) ([source](https://github.com/MengZheK/kangblog.github.io)) - China. This is a simple and beautiful blog. Enjoy It.
-* [Rails Developer London](http://www.jackkinsella.ie/) ([source](https://github.com/jackkinsella/Personal-Site-of-Jack-Kinsella)) – Heroku ready and search engine optimised portfolio site and blog of Jack Kinsella.
 * [Tagaholic](http://tagaholic.me/) ([source](http://github.com/cldwalker/cldwalker.github.com)) – Machine tags and js are used to organize posts and calculate related posts.
 * [Cyborg Institute](http://www.cyborginstitute.com/) ([source](http://cyborginstitute.net/git/?p=cyborginstitute.com.git;a=summary)) – Uses Jekyll to power the whole site (save the wiki). Uses the same version of the code as tychoish, above.
 * [MacMillan Films](http://www.macmillanfilms.com/) ([source](https://github.com/macmillanfilms/macmillanfilms.github.io)) – Simple conversion of modified WordPress theme. Displays basic static eCommerce.
@@ -45,7 +44,6 @@ Contributions are welcome!
 * [Uberobert](http://www.uberobert.com) ([source](htmatps://github.com/rbirnie/uberobert.com)) – My blog, using twitter bootstrap.
 * [ChenJun(Zhu8)’s Web](http://chenjun.com) ([source](https://github.com/zhu8/zhu8.github.io)) – Zhu8’s Website, using bootstrap & Themed with minimal with Mobile vision (中文用户可参考，已优化中文使用).
 * [Ewerton Nascimento](http://ewertonorg.github.io/)([source](https://github.com/ewertonorg/ewertonorg.github.io)) My regularly updated personal blog, talks, open source.
-* [Tom Ward](http://tomafro.net/) ([source](http://github.com/tomafro/tomafro.net)) – Fully featured blog using a Rakefile to generate index pages (of tags, years and months), custom tags to help display posts, and capistrano to publish.
 * [koraktor](http://koraktor.github.com/) ([source](http://github.com/koraktor/koraktor.github.com))
 * [Cory Ondrejka](http://cory.github.com/) ([source](http://github.com/cory/cory.github.com/tree/master)) – My regularly updated personal blog, talks, open source projects, etc...
 * [Alex Payne](http://al3x.net/) ([source](http://github.com/al3x/al3x.github.com/tree/master))
@@ -71,7 +69,6 @@ Contributions are welcome!
 * [wulfovitch.net](http://wulfovitch.net/) ([source](http://github.com/wulfovitch/wulfovitch.net)) / [fork](http://github.com/tatey/jekylless) – Personal blog covering programming topics
 * [Drivemeup carpooling](http://drivemeup.github.com/) ([source](http://github.com/drivemeup/drivemeup.github.com)) – Drivemeup Blog (English and French).
 * [mojobojo](http://boj.github.com/) ([source](http://github.com/boj/boj.github.com)) – Simple personal blog.
-* [senoj.net](http://www.senoj.net/) ([source](http://github.com/stephenjones/stephenjones.github.com)) – Stephen Jones’s personal blog.
 * [Balinterdi](http://balinterdi.com/) ([source](http://github.com/balinterdi/balinterdi.github.com)) – Balint Erdi’s personal tech blog.
 * [alpinegizmo.com](http://alpinegizmo.com/) ([source](http://github.com/alpinegizmo/alpinegizmo.com)) – David Anderson’s personal blog.
 * [h313.github.io](http://h313.github.io/) ([source](https://github.com/h313/h313.github.io)) - Haoda Wang's personal site.
@@ -116,7 +113,6 @@ Contributions are welcome!
 * [Brian Clapper’s blog](http://brizzled.clapper.org/) ([source](https://github.com/bmc/brizzled)) – [personal web site](http://www.clapper.org/) and [company web site](http://www.ardentex.com/).
 * [saberma](http://saberma.me/) ([source](https://github.com/saberma/saberma.github.com)) – (马海波) Personal blog in China.
 * [Clint Shryock’s super awesome ‘site/blog’](http://ctshryock.com/) ([source](https://github.com/ctshryock/ctshryock.com))
-* [derrickj’s website](http://www.hillcrestlab.com/) ([source](https://github.com/derrickj/hillcrestlab.com)) – My site/blog. Has an Atom feed and has a few posts with published time specified.
 * [Corin Cole](http://www.corincole.com/) ([source](https://github.com/corincole/corincole.com)) – Personal blog/profile.
 * [Seyi Ogunyemi](http://micrypt.com/) ([source](http://github.com/micrypt/micrypt.github.com))
 * [TJ Stein](http://tjstein.com/) ([source](https://github.com/tjstein/tjstein.com))
@@ -261,7 +257,6 @@ Contributions are welcome!
 * [The Escaped](http://descaped.com/) ([source](https://github.com/theescaped/theescaped.github.com)) – A Moroccan English based opinion site focusing on entrepreneurship, politics, and education.
 * [Jacques BH](http://jacques.sh/) ([source](https://github.com/jacquesbh/jacquesbh.github.com)) – The blog of a Magento certified developer (French)
 * [wlair.us.to](http://wlair.us.to/) ([source](https://github.com/woddfellow2/woddfellow2.github.io)) – Personal blog
-* [CyberCrumbs](http://cybercrumbs.net) ([source](https://github.com/fuzzytern/cybercrumbs.net)) – Personal blog on simplicity and Web development
 * [Jacob Hauberg Hansen](http://www.jacobhauberg.dk) ([source](https://github.com/shrt/shrt.github.com)) – Personal blog, usually programming related posts.
 * [Alex Browne](http://blog.alexbrowne.info) ([source](https://github.com/stephenalexbrowne/blog)) – A personal blog designed to be blazing fast and cheap to maintain.
 * [JDStraughan](http://jdstraughan.com) ([source](https://github.com/jdstraughan/jdstraughan.github.com)) – Personal blog for Jason Straughan – topics include web development, ruby, open source, and legos.
