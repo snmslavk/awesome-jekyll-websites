@@ -856,9 +856,13 @@ Contributions are welcome!
 * [tekkie](https://tekkie.flashbit.net/) ([source](https://github.com/ain/tekkie.flashbit.net)) - Technology blog of Ain Tohvri, CTO at Savings United, international network of digital coupon marketplaces.
 
 # The list of jekyll tutorials
+TODO
 
 # The list of jekyll videos
+TODO
 
 # Official documentation and websites
+TODO
 
 # Tools
+TODO
