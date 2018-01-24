@@ -1,5 +1,5 @@
-# awesome-jekyll-websites
-Awesome list of jekyll website and awesome resources
+# Awesome jekyll websites list
+A curated list of awesome Jekyll websites.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)[![Build Status](https://travis-ci.org/snmslavk/awesome-jekyll.svg?branch=master)](https://travis-ci.org/snmslavk/awesome-jekyll)
 
