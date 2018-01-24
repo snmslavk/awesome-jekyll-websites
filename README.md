@@ -206,7 +206,6 @@ Contributions are welcome!
 * [Eddie Hedges](http://edhedges.com) ([source](https://github.com/edhedges/edhedges.github.com/tree/dev)) – Personal website
 * [Erik Eng](http://erikeng.se/) ([source](http://github.com/ptz0n/ptz0n.github.com)) – Personal site and blog
 * [Roland Yonaba](http://yonaba.github.com/) ([source](https://github.com/Yonaba/yonaba.github.com)) – Development and Personal website
-* [Alex Holmes](http://grepalex.com) ([source](https://github.com/alexholmes/blog))
 * [Zumba Engineering](http://engineering.zumba.com) ([source](https://github.com/zumba/zumba.github.com)) – Department site/blog about technology
 * [Prose.io](http://prose.io) ([source](https://github.com/prose/prose)) – A content editor service for GitHub. ([Introductory blog post](http://developmentseed.org/blog/2012/june/25/prose-a-content-editor-for-github/))
 * [Felipe Cabargas (juanpintoduran on rails)](http://blog.cabargas.com/) ([source](http://github.com/felipecabargas/felipecabargas.github.com))
@@ -735,7 +734,6 @@ Contributions are welcome!
 * [CircleCI Docs](https://circleci.com/docs/) ([source](https://github.com/circleci/circleci-docs)) - Documentation for CircleCI, continuous integration platform.
 * [Vernando Simbolon](https://vernandosimbolon.com) ([source](https://github.com/Vernando05/vernando05.github.io)) - Personal & portfolio website.
 * [Willy Mayo, Venezuelan Luthier & musician](http://willymayo.com.ve) - Personal & instrument catalog website.
-* [Alex Pate](https://alexpate.uk) ([source](https://github.com/alexpate/alexpate.uk)) - Portfolio and Journal of a London based front-end engineer.
 * [Zsolt Udvari](http://uzsolt.hu) ([source](http://git.uzsolt.hu/jekyll-homepage/)) - Personal homepage with multi-level menu system, gallery, downloadable documents, notes, RSS, etc. Without any JavaScript! Only in hungarian!
 * [Yaoyu Yang](http://yaoyuyang.com) ([source](https://github.com/sunshineyyy/sunshineyyy.github.io)) - Personal homepage and blog with responsive design and customized template from [Clean Blog theme](https://github.com/BlackrockDigital/startbootstrap-clean-blog-jekyll).
 * [Yasin Yousif](https://engyasin.github.io) ([source](https://github.com/engyasin/engyasin.github.io))
