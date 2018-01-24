@@ -350,7 +350,6 @@ Contributions are welcome!
 * [Gets.co](http://gets.co) ([source](https://github.com/feir/feir.github.io)) – Thoughts during the new startup. (Chinese, 中文)
 * [Chris Down](http://chrisdown.name) ([source](https://github.com/cdown/chrisdown.name)) – Personal website
 * [HPSTR](http://mmistakes.github.io/hpstr-jekyll-theme) ([source](https://github.com/mmistakes/hpstr-jekyll-theme)) – A Jekyll theme with modern design sensibilities, responsive layouts, support for large feature images, Disqus commenting, Pygments and Coderay syntax highlighting styles, Grunt build script, sample 404 page, and more.
-* [StrathSEDS](http://www.strathseds.org) ([source](https://github.com/strathseds/strathseds.org)) – Students for the Exploration and Development of Space at the University of Strathclyde
 * [Bruce Hauman](http://rigsomelight.com) ([source](https://github.com/bhauman/bhauman.github.com)) – a blog about programming and other stuff
 * [Educative-Games.org](http://educative-games.org) ([source](https://github.com/kernc/educative-games.org)) – a single page site using Jekyll’s front matter as a neat, light database (which should soon prove to be in fact a large and shitty scaling issue).
 * [赵金泉的个人网站](http://zjq.in/) ([source](http://github.com/alairs/alairs.github.com/)) – aquan's Personal Site
