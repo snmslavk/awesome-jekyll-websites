@@ -517,7 +517,6 @@ Contributions are welcome!
 * [BankSimple](http://www.simple.com) ([source](https://www.simple.com/blog/behind-the-scenes-of-our-site-refresh)) - late 2010 revision of Simple's website.
 * [haisum.github.io](http://haisum.github.io) ([source](https://github.com/haisum/haisum.github.io)) - Haisum Bhatti's personal blog.
 * [Gayan Virajith](http://gayan.me) ([source](https://github.com/gayanvirajith)) - Gayan Virajith's personal site and the blog.
-* [Mehdi Sadeghi](http://mehdix.ir) ([source](https://github.com/mehdisadeghi/mehdix.ir)) - Persian website on software - وبسایت فارسی من
 * [Behrooz Hasanbeygi](http://behroozam.com) ([source](https://github.com/behroozam/behroozam.com)) my persian/farsi blog - در مورد تکنولوژی جامعه و فناوری اطلاعات سلامت
 * [Comtu](http://comtu.github.io) ([source](https://github.com/comtu)) - comtu personal website and blog.个人博客.(Chinese, 中文)
 * [Why & How](http://wanglongqi.github.io) ([source](https://github.com/wanglongqi/wanglongqi.github.io)) - Personal site based on [Hyde](http://hyde.getpoole.com/) template. (Primary language: Chinese, 中文)
@@ -745,8 +744,6 @@ Contributions are welcome!
 * [Jens Willmer](http://jwillmer.de) ([source](https://github.com/jwillmer/jekyllDecent)) - Personal blog
 * [LionNet Maciej Lew](http://lion.net.pl) ([source](https://github.com/maciejlew/maciejlew.github.io)) - Personal blog about software development, especially lan management systems for internet service providers
 * [Shekhar Prasad Rajak](http://shekharrajak.github.io/) ([source](https://github.com/Shekharrajak/shekharrajak.github.io)) - Personal blog for GSoC 
-* [Panxw's personal blog](https://www.panxw.com/) ([source](https://github.com/panxw/panxw.github.com)) – Blog built by Jekyll (Chinese).
-**hello word**
 * [Electric Book Workflow](http://electricbookworks.github.io/electric-book-workflow/) ([source](https://github.com/electricbookworks/electric-book-workflow)) - Professional book-production toolchain
 * [Mig Salazar](http://migsalazar.com) ([source](https://github.com/migsalazar/migsalazar.github.io)) - Debugging stories, coding, hacking and a little sarcasm.
 * [Alain Pellaux](http://alain.info) ([source](https://github.com/gallib/gallib.github.io)) - Personal homepage
