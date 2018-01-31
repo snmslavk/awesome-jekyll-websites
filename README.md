@@ -124,7 +124,6 @@ Contributions are welcome!
 * [Shallow Thoughts](http://carlosedp.com/) ([source](https://github.com/carlosedp/carlosedp.github.com)) – Carlos Eduardo’s personal blog about tech, development and music.
 * [Leto Labs](http://letolabs.github.com/) ([source](http://github.com/letolabs/letolabs.github.com/)) – New PDX-based startup founded by Jonathan Duke Leto
 * [Ted Kulp](http://tedkulp.com/) ([source](https://github.com/tedkulp/jekyll-template/)) – Personal blog about code, tech and photography using custom Jekyll [fork](https://github.com/tedkulp/jekyll)
-* [XCSoar](http://www.xcsoar.org/) ([source](http://git.xcsoar.org/cgit/master/website.git/)) – Open Source Aviation Application (includes generation of [trac](http://trac.edgewall.org/) and [phpBB3](http://www.phpbb.com/) templates).
 * [Does Ideas](http://doesideas.com/) ([source](https://github.com/mlanza/doesideas/)) – Curated blog by a Rubyist.
 * [Nathan McGinness](http://nthn.net) ([source](https://github.com/njmcgee/njmcgee.github.com)) – Personal site and portfolio.
 * [/dev/alip](http://alip.github.com/) ([source](https://github.com/alip/alip.github.com)) – Personal weblog of Ali Polatel.
@@ -377,7 +376,6 @@ Contributions are welcome!
 * [Seita](http://seita.me) ([source](https://github.com/seitazen/seitazen.github.io)) – A blog for sharing things that I have a chemistry in. Also as notes for programming studies.
 * [Shuyang Lin](http://linshuyang.com/) ([source](https://github.com/Shuyang/Shuyang.github.io)) – Personal website and blog.
 * [Quantum Lunch Melbourne](http://silky.github.io/quantum-lunch/) ([source](https://github.com/silky/quantum-lunch/tree/gh-pages)) – Quantum lunch website.
-* [Cristen Jones](http://cristen.thejonesgroup.org/) ([source](https://github.com/thecristen/thewebsite)) – Personal website with blog, projects, and art via flickr
 * [The Development](http://thedevelopment.co) ([source](http://github.com/jeffxmn/thedevelopment)) – A website that showcases other people’s websites in interview form.
 * [Martin Thoma](martinthoma.github.io) ([source](https://github.com/MartinThoma/MartinThoma.github.io)) – Personal Blog (Code, the Web and Cyberculture)
 * [Cloud Commander](http://cloudcmd.io) ([source](http://github.com/coderaiser/cloudcmd-io) )- cloud file manager with console and editor.
@@ -495,7 +493,6 @@ Contributions are welcome!
 * [zenorocha.com](http://zenorocha.com) ([source](https://github.com/zenorocha/zenorocha.com)) – Brazilian Front-End Engineer personal site
 * [code.Antrikshy](http://blog.antrikshy.com) ([source](https://github.com/Antrikshy/antrikshy.github.io)) – Blog documenting Antriksh Yadav’s programming adventures
 * [Benoit Frigon](http://www.bfrigon.com) ([source](https://github.com/bfrigon/bfrigon.github.io)) – Electronic, VOIP telephony with Asterisk and programming.
-* [Sergey Bronnikov](http://blog.bronevichok.ru) ([source](https://github.com/ligurio/ligurio.github.io)) – Personal blog about productivity and software testing
 * [»Feeling Responsive« Theme for Jekyll](http://phlow.github.io/feeling-responsive/) ([source](https://github.com/Phlow/feeling-responsive)) – A responsive theme based on [Foundation](http://foundation.zurb.com/)
 * [Brick](http://brick.im) ([source](https://github.com/alfredxing/brick)) - A free & open source webfont service focusing on render quality.
 * [Willog Timeline](http://now.willin.wang/) ([source](http://github.com/willin/now)) – Using AJAX and Geolocation. Mobile Valid (Chinese, 中文).
@@ -826,7 +823,6 @@ Contributions are welcome!
 * [Cedro Gropello](http://cedrogropello.com/) ([source](https://github.com/tommaso-negri/cedro-gropello)) - Website of an Italian beauty center
 * [Andrey Glauzer](https://andreyglauzer.com) ([source](https://github.com/andreyglauzer/andreyglauzer.github.io)) - A personal blog
 * [Multiplicidad Digital](http://amireynoso.github.io/multiplicidad) ([source](https://github.com/amireynoso/multiplicidad)) - Ami Reynoso's graduation project about web development (in Spanish). Uses custom responsive theme, integrates Disqus, and custom page types.
-* [MLOwl](http://www.mlowl.com) ([source](https://github.com/batzner/batzner.github.io)) Blog about ML, Data Science and other buzzwords
 * [Ajit Kumar's Webpage](https://krajit.github.io/) ([Source](https://github.com/krajit/krajit.github.io)) A simple academic webpage based on [hyde](https://github.com/poole/hyde) template.
 * [Theo Kalfas - teolandon](http://teolandon.com/) ([source](https://github.com/teolandon/teolandon.github.io/)) - Personal website/blog.
 * [Ganessh Kumar](https://ganesshkumar.com/) ([source](https://github.com/ganesshkumar/ganesshkumar.github.io/)) - A personal website
