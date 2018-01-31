@@ -321,7 +321,6 @@ Contributions are welcome!
 * [Pratik Agrawal](http://pratik98.github.com/) ([source](https://github.com/pratik98/pratik98.github.com)) – Personal website and blog (with modified theme)
 * [Marc Anguera Insa](http://marcanguera.net/) ([source](https://github.com/markets/markets.github.io)) – Personal site and blog
 * [So Simple Theme](http://mmistakes.github.io/so-simple-theme/) ([source](https://github.com/mmistakes/so-simple-theme)) – A simple and clean responsive Jekyll theme for words and photos.
-* [Chris Yin](http://chrisyin.com/) ([source](https://github.com/ChrisEYin/chriseyin)) – Chris Yin’s Personal Site and Blog. Startup, life, and self improvement.
 * [Juan Lasheras](http://blog.juanl.org/) ([source](http://github.com/jlas/jlas.github.io))
 * [Martin Bean](http://martinbean.co.uk/) ([source](http://github.com/martinbean/martinbean.github.io))
 * [Seb Spain](http://sebspain.co.uk/) ([source](http://github.com/sebspain/sebspain.github.io)) – personal website with various tweaks and kludges on the standard jekyll layouts
