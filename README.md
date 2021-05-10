@@ -701,7 +701,6 @@ Contributions are welcome!
 * [Personal Development](http://jonathanpike.net) ([source](https://github.com/jonathanpike/jonathanpike.github.io)) - Personal blog about becoming a better developer.
 * [Oliver Pattison](https://olivermak.es) ([source](https://github.com/opattison/olivermakes)) – Archive of writing, photography and projects.
 * [Orange](https://talentedunicorn.github.io/orange) - A free jekyll theme for personal portfolio and blog 
-* [error code 0x12F](http://blog.kianooshnaghavi.com) ([source](https://github.com/theskn/theskn.github.io)) - Personal notes on game dev and music by Kianoosh Naghavi, in persian
 * [Sagar Gandhi](http://www.sagargandhi.com/) ([source](https://github.com/Gandhi-Sagar/Gandhi-Sagar.github.io)) - A personal website about Graphics, Vision and Machine Learning; inspired by [Tyler Cubell's](http://www.tylercubell.com/) ([Source](https://github.com/tylercubell/tylercubell.github.io)) work, though I changed many bits.
 * [Paspagon](http://paspagon.com) ([source](https://github.com/Paspagon/paspagon.github.io)) – a payment processor.
 * [Maxime Kjaer](https://kjaermaxi.me/) ([source](https://github.com/MaximeKjaer/kjaermaxi.me)) &mdash; Personal site and blog
