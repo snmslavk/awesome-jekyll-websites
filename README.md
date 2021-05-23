@@ -180,7 +180,6 @@ Contributions are welcome!
 * [Food Oasis LA](https://foodoasis.la/) ([source](https://github.com/foodoasisla/foodoasis.la)) - Food Oasis LA (FOLA) shows you the best places to find healthy food in Los Angeles. It's built by volunteers at Hack for LA, the official Los Angeles chapter of Code for America.
 * [Prashant's personal blog/timeline](https://imprashant.com/) ([source](https://github.com/x0v/x0v.github.io)) - a Machine Learning Engineer | Backend Developer. The site includes easy to deploy cool features like skills set presentation and search feature. Feel free to fork and deploy your own jekyll powered website in no time.
 * [Andy Davies](http://andydavi.es/) ([source](https://github.com/andavies/andavies.github.io/)) - Personal blog/portfolio - freelance web developer.
-* [Andor Polgar's photolog](http://andor.cool/) ([source](https://github.com/andormade/andor.cool)) - A personal photoblog.
 * [Official website of Lightrains Tech](https://lightrains.com "Blockchain Consulting Company") ([source](https://github.com/lightrainstech/website.source)) - Blockchain Consulting Company 
 * [Irfan Fadilah's Blog](http://blog.irfanfadilah.com/) ([source](https://github.com/irfanfadilah/irfanfadilah.github.io)) - Irfan Fadilah's personal blog about IT related things.
 * [Cedro Gropello](http://cedrogropello.com/) ([source](https://github.com/tommaso-negri/cedro-gropello)) - Website of an Italian beauty center
