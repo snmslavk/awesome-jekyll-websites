@@ -165,7 +165,7 @@ Contributions are welcome!
 * [Art Bergmann](http://artbergmann.com/) ([source](https://github.com/va7sdf/artbergmann)) - Official website of Art Bergmann, anti-hero-iconoclast of Canadian music for over 40 years.
 * [Gordon Celesta](http://gordon.celesta.me/) ([source](https://github.com/va7sdf/va7sdf.github.io)) - Personal Blog.
 * [LineageOS Wiki](http://wiki.lineageos.org/) ([source](https://github.com/LineageOS/lineage_wiki))
-* [Juliano Boesel Mohr](http://www.juliaaano.com/) ([source](https://github.com/juliaaano/juliaaano.github.io)) - A blog about software engineering.
+* [Juliano Mohr](https://www.juliaaano.com/) ([source](https://github.com/juliaaano/juliaaano)) - A blog about software engineering.
 * [Banter bloguje](https://blog.zvestov.cz/) ([source](https://github.com/banterCZ/blog/)) - Personal blog mostly about software engineering (in Czech) 
 * [Adit Deshpande](https://adeshpande3.github.io/) ([Source](https://github.com/adeshpande3/adeshpande3.github.io)) - Machine Learning Blog.
 * [grandprixstats.org](http://www.grandprixstats.org) ([Source](https://github.com/grand-prix-stats/grand-prix-stats.github.io)) - Formula 1® Programmatically Generated Statistics
