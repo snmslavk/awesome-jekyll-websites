@@ -108,7 +108,6 @@ Contributions are welcome!
 * [scottmeisburger.com](http://scottmeisburger.com/) ([source](https://github.com/protonpopsicle/protonpopsicle.github.io)) - Personal website and blog of Scott Meisburger.
 * [sevko.io](http://sevko.io/) ([source](https://github.com/sevko/sevko.github.io)) - Severyn Kozak's personal site and blog.
 * [sampedley.com](http://sampedley.com/) ([source](https://github.com/SamPedley/samJekyll)) - Personal Site and random front-end blog posts.
-* [BankSimple](http://www.simple.com) ([source](https://www.simple.com/blog/behind-the-scenes-of-our-site-refresh)) - late 2010 revision of Simple's website.
 * [haisum.github.io](http://haisum.github.io) ([source](https://github.com/haisum/haisum.github.io)) - Haisum Bhatti's personal blog.
 * [Gayan Virajith](http://gayan.me) ([source](https://github.com/gayanvirajith)) - Gayan Virajith's personal site and the blog.
 * [Behrooz Hasanbeygi](http://behroozam.com) ([source](https://github.com/behroozam/behroozam.com)) my persian/farsi blog - در مورد تکنولوژی جامعه و فناوری اطلاعات سلامت
@@ -181,7 +180,6 @@ Contributions are welcome!
 * [Prashant's personal blog/timeline](https://imprashant.com/) ([source](https://github.com/x0v/x0v.github.io)) - a Machine Learning Engineer | Backend Developer. The site includes easy to deploy cool features like skills set presentation and search feature. Feel free to fork and deploy your own jekyll powered website in no time.
 * [Andy Davies](http://andydavi.es/) ([source](https://github.com/andavies/andavies.github.io/)) - Personal blog/portfolio - freelance web developer.
 * [Official website of Lightrains Tech](https://lightrains.com "Blockchain Consulting Company") ([source](https://github.com/lightrainstech/website.source)) - Blockchain Consulting Company 
-* [Irfan Fadilah's Blog](http://blog.irfanfadilah.com/) ([source](https://github.com/irfanfadilah/irfanfadilah.github.io)) - Irfan Fadilah's personal blog about IT related things.
 * [Cedro Gropello](http://cedrogropello.com/) ([source](https://github.com/tommaso-negri/cedro-gropello)) - Website of an Italian beauty center
 * [Multiplicidad Digital](http://amireynoso.github.io/multiplicidad) ([source](https://github.com/amireynoso/multiplicidad)) - Ami Reynoso's graduation project about web development (in Spanish). Uses custom responsive theme, integrates Disqus, and custom page types.
 * [Ajit Kumar's Webpage](https://krajit.github.io/) ([Source](https://github.com/krajit/krajit.github.io)) A simple academic webpage based on [hyde](https://github.com/poole/hyde) template.
